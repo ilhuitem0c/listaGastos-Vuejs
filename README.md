@@ -1,4 +1,4 @@
-# expenses
+# Lista de Control de gastos en tiempo real
 
 ## Project setup
 ```
@@ -27,3 +27,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# listaGastos-Vuejs
